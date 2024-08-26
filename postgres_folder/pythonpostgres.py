@@ -18,7 +18,7 @@ try:
             host = hostname,
             dbname = database,
             user = username,
-            password = 'Mifamilifeliz7',
+            password = '*********',
             port = port_id)
     
     cur = conn.cursor()
